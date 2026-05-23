@@ -19,7 +19,7 @@ Step 2. Add the dependency
 
 ```gradle
 dependencies {
-    implementation 'com.github.nsenterprise9865-stack:magic-eraser-android-sdk:1.0.1'
+    implementation 'com.github.nsenterprise9865-stack:magic-eraser-android-sdk:1.0.2'
 }
 ```
 
