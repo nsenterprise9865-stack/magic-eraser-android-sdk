@@ -92,7 +92,7 @@ Our SDK uses a fair, flat-rate pricing model compared to expensive pay-per-image
 *   **Pro Plan:** $49 / month (or $399 / year) - Best for startups and teams.
 *   **Enterprise:** Custom tailored for large-scale applications.
 
-To purchase a license key or view full details, please contact **nsenterprise9865@gmail.com**.
+To purchase a license key or view full details, please contact **contact.nsenterprise@gmail.com**.
 
 ---
 *© 2026 NS Enterprise. All rights reserved.*
