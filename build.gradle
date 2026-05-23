@@ -3,14 +3,14 @@ plugins {
 }
 
 group = 'com.nsenterprise.magiceraser'
-version = '1.0.0'
+version = '1.0.1'
 
 publishing {
     publications {
         release(MavenPublication) {
             groupId = 'com.nsenterprise.magiceraser'
             artifactId = 'sdk'
-            version = '1.0.0'
+            version = '1.0.1'
             
             artifact("magiceraser-release.aar") {
                 extension 'aar'
