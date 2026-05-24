@@ -3,7 +3,7 @@ plugins {
 }
 
 group = 'com.nsenterprise.magiceraser'
-version = '1.0.4'
+version = '1.0.5'
 
 task assemble {
     doLast {
@@ -16,7 +16,7 @@ publishing {
         release(MavenPublication) {
             groupId = 'com.nsenterprise.magiceraser'
             artifactId = 'sdk'
-            version = '1.0.4'
+            version = '1.0.5'
             
             artifact("magiceraser-release.aar") {
                 extension 'aar'
