@@ -43,7 +43,7 @@ In your app-level `build.gradle`:
 
 ```gradle
 dependencies {
-    implementation 'com.github.nsenterprise9865-stack:magic-eraser-android-sdk:1.0.3'
+    implementation 'com.github.nsenterprise9865-stack:magic-eraser-android-sdk:1.0.6'
 }
 ```
 
